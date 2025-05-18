@@ -1,0 +1,20 @@
+bin
+data
+logs
+log
+.idea
+.vscode
+vendor
+tool/tool
+.DS_Store
+
+# percentile output format
+*.txt
+
+# hdr-plot output format
+*.png
+env
+5_*.*
+pre_release*
+old
+*csv
